@@ -33,7 +33,8 @@ Click on new connection and enter url mongodb://localhost:27017/neurolabDB. This
 python data_dump.py
 ```
 
-### Step 6 - Create data_Dump.py file to upload datafile into mongdb
+### Step 6 - perform git activity in neurolab
+
 ```bash
-python data_dump.py
+git activity 
 ```

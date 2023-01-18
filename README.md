@@ -38,3 +38,7 @@ python data_dump.py
 ```bash
 git activity 
 ```
+### Step 6 - perform git activity in github
+```bash
+git activity
+```

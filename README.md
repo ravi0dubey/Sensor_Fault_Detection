@@ -33,7 +33,7 @@ Click on new connection and enter url mongodb://localhost:27017/neurolabDB. This
 python data_dump.py
 ```
 
-### Step 6 - perform git activity
+### Step 6 - perform git activity in github
 ```bash
 git activity
 ```
